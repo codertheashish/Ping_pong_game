@@ -93,7 +93,7 @@ https://github.com/codertheashish/Ping_pong_game.git
 ### **4️⃣ Run the Game**
 
 ```bash
-python ping_pong.py
+python ping_pong_game.py
 ```
 
 ---
