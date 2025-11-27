@@ -87,7 +87,7 @@ pip install pygame
 ### **3️⃣ Clone the Repository**
 
 ```bash
-https://github.com/codertheashish/Ping_Pong_Color_Sync.git
+https://github.com/codertheashish/Ping_pong_game.git
 ```
 
 ### **4️⃣ Run the Game**
